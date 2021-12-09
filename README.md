@@ -2,7 +2,7 @@
 
 > Welcome to the world of Python. An ongoing curated list of frameworks, libraries, learning tutorials, software and resources in Python Language.
 
-- [Table of Contents](#table-of-contents)
+## [Table of Contents](#table-of-contents)
     - [Admin Panels](#admin-panels)
     - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
     - [ASGI Servers](#asgi-servers)
