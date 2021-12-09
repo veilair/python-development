@@ -1,3 +1,9 @@
+# 1 - The python scripts in this example are written using Python 3.9 and the Python PyCharm IDE. To use it, you must first install the PyCharm IDE on your device.
+
+# 2 - To execute latin_translator.py from the terminal, type the following code below: 
+# $ python3 latin_translator.py
+
+
 # latin_translator.py
 
 #request user for input
