@@ -2,6 +2,8 @@
 
 > Welcome to the world of Python. An ongoing curated list of frameworks, libraries, learning tutorials, software and resources in Python Language.
 
+
+![python-development](https://github.com/veilair/python-development/blob/main/python-logo.png)
 ## Table of Contents
 - [Python Development](#python-development)
     - [Admin Panels](#admin-panels)
