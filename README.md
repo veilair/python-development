@@ -1357,3 +1357,10 @@ Where to discover learning resources or new Python libraries.
 # Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/veilair/python-development/blob/master/CONTRIBUTING.md) first.
+
+## Licenses
+License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Veilair](https://github.com/veilair/) has waived all copyright and related or neighboring rights to this work.
