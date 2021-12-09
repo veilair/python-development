@@ -2,7 +2,8 @@
 
 > Welcome to the world of Python. An ongoing curated list of frameworks, libraries, learning tutorials, software and resources in Python Language.
 
-## [Table of Contents](#table-of-contents)
+## Table of Contents
+- [Python Development](#python-development)
     - [Admin Panels](#admin-panels)
     - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
     - [ASGI Servers](#asgi-servers)
@@ -1366,4 +1367,4 @@ License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Veilair](https://github.com/veilair/) has waived all copyright and related or neighboring rights to this work.
-[Back to top](##table-of-contents)
+[Back to top](#table-of-contents)
