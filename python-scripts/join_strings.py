@@ -17,3 +17,5 @@ print(joined_string)
 # To learn how to connect two strings, build a python script with the following script.
 
 # Two string values are allocated to two variables, with a third variable used to store the joined values, which will be printed later.
+
+# References: https://www.fosslinux.com/46256/python-script-examples.htm
