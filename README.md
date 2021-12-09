@@ -1,6 +1,6 @@
 # Python Development
 
-> Welcome to the world of Python. An ongoing curated list of Python frameworks, libraries, software and resources.
+> Welcome to the world of Python. An ongoing curated list of frameworks, libraries, learning tutorials, software and resources in Python Language.
 
 - [Table of Contents](#table-of-contents)
     - [Admin Panels](#admin-panels)
