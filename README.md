@@ -4,7 +4,7 @@
 
 
 ![python-development](https://github.com/veilair/python-development/blob/main/python-logo.png)
-## Table of Contents
+## `Table of Contents`
 - [Python Development](#python-development)
     - [Admin Panels](#admin-panels)
     - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
