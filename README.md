@@ -105,7 +105,7 @@
 
 ---
 
-## Admin Panels
+## `Admin Panels`
 
 *Libraries for administrative interfaces.*
 
@@ -119,7 +119,7 @@
 * [jet-bridge](https://github.com/jet-admin/jet-bridge) - Admin panel framework for any application with nice UI (ex Jet Django).
 * [wooey](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
 
-## Algorithms and Design Patterns
+## `Algorithms and Design Patterns`
 
 *Python implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms](https://github.com/tayllan/awesome-algorithms).*
 
@@ -133,14 +133,14 @@
     * [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
     * [transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
 
-## ASGI Servers
+## `ASGI Servers`
 
 *[ASGI](https://asgi.readthedocs.io/en/latest/)-compatible web servers.*
 
 * [daphne](https://github.com/django/daphne) - A HTTP, HTTP2 and WebSocket protocol server for ASGI and ASGI-HTTP.
 * [uvicorn](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
 
-## Asynchronous Programming
+## `Asynchronous Programming`
 
 * [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
     - [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio)
@@ -148,7 +148,7 @@
 * [Twisted](https://twistedmatrix.com/trac/) - An event-driven networking engine.
 * [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
-## Audio
+## `Audio`
 
 *Libraries for manipulating audio and its metadata.*
 
@@ -168,7 +168,7 @@
     * [mutagen](https://github.com/quodlibet/mutagen) - A Python module to handle audio metadata.
     * [tinytag](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
 
-## Authentication
+## `Authentication`
 
 *Libraries for implementing authentications schemes.*
 
@@ -184,7 +184,7 @@
     * [python-jose](https://github.com/mpdavis/python-jose/) - A JOSE implementation in Python.
     * [python-jwt](https://github.com/davedoesdev/python-jwt) - A module for generating and verifying JSON Web Tokens.
 
-## Build Tools
+## `Build Tools`
 
 *Compile software from source code.*
 
