@@ -1342,14 +1342,14 @@ Where to discover learning resources or new Python libraries.
     * [Pythonic News](https://news.python.sc/)
     * [What the f*ck Python!](https://github.com/satwikkansal/wtfpython)
 
-## Newsletters
+## `Newsletters`
 
 * [Awesome Python Newsletter](http://python.libhunt.com/newsletter)
 * [Pycoder's Weekly](http://pycoders.com/)
 * [Python Tricks](https://realpython.com/python-tricks/)
 * [Python Weekly](http://www.pythonweekly.com/)
 
-## Podcasts
+## `Podcasts`
 
 * [Django Chat](https://djangochat.com/)
 * [Podcast.\_\_init__](https://podcastinit.com/)
@@ -1359,11 +1359,11 @@ Where to discover learning resources or new Python libraries.
 * [Test and Code](https://testandcode.com/)
 * [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
 
-# Contributing
+# `Contributing`
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/veilair/python-development/blob/master/contributing.md) first.
 
-## Licenses
+## `Licenses`
 License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
